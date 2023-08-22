@@ -1,0 +1,3 @@
+[submodule "gods"]
+	path = gods
+	url = git@github.com:sglauber/gods.git
